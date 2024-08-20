@@ -1,4 +1,7 @@
-# React + Vite
+# Sticky Notes App
+
+[Link](https://github.com/divanov11/Sticky-Notes-React) to the tutorial
+[Link](https://sticky-fcc.vercel.app/part-1/1.1-Setup-React) to the guide doc
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
